@@ -11,7 +11,7 @@
 - Submit **small, focused** PRs.
 - Don't refactor unrelated code.
 - Discuss big changes first.
-- If necessary update tests.    ( *WE WONT HAVE DOCS, CHANGELOG, ETC? )
+- If necessary update tests.    ( *WE WONT HAVE DOCS, CHANGELOG, ETC?* )
 - PR into the appropriate branch (never `main`).    ( *IF IT'S A NEW FEATURE WE WANT TO PR INTO A NEW, NON-EXISTING BRANCH? WHO WILL CREATE IT?* )
 - Fix any CI/test failures ASAP.    ( *MEANING CHECK BACK OR WAIT FOR THE AUTOMATED TESTS TO RUN AFTER PRing?* )
 
