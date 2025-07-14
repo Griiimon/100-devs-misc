@@ -17,11 +17,11 @@
 
 ## :memo: Writing Commit Messages
 
-- Subject line: 50 chars max, capitalized, imperative, no period. Eg. "Fix bug", not "Fixes bug" or "Fixed bug"
+- Subject line: 50 chars max, capitalized, no period, imperative: "Fix bug", not "Fixes bug" or "Fixed bug"
 - Leave a blank line between subject and body.        ( *DOESNT THAT HAPPEN AUTOMATICALLY?* )
 - Explain **why** in the body, not just **what**.    ( *BODY REQUIRED, RECOMMENDED, RARELY USED?* )
 
 ## :nail_care: Coding Style
 
-- Follow the [official GDScript styleguide]([GDScript style guide &mdash; Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html))
+- Follow the [official GDScript styleguide](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html)
 - Use spaces, not tabs.        ( *OTHER WAY AROUND, RIGHT?* )
