@@ -4,8 +4,10 @@
 
 - Use the latest version of the main branch before reporting.
 - Search existing issues to avoid duplicates.
-- Format your with `` backticks. One for a line, 3 for a block
-  `Code`
+- Format your code with `` backticks. One for a line, 3 for a block
+  
+  `Codeline`
+
   ```
   Code
   block
